@@ -51,9 +51,9 @@ input {
 }
 
 input:focus {
-    background: #ecc731;
-    color: gray;
-    border: 1px solid #ecc731;
+    background: #fbf9f8;
+    color: black;
+    border: 1px solid #b62d32;
     transition: all 0.4s;
 }
 
@@ -68,9 +68,9 @@ textarea {
 }
 
 textarea:focus {
-    background: #ecc731;
-    color: gray;
-    border: 1px solid #ecc731;
+    background: #fbf9f8;
+    color: black;
+    border: 1px solid #b62d32;
     transition: all 0.4s;
 }
 
@@ -85,15 +85,15 @@ textarea:focus {
 }
 
 #submit:hover {
-    background: #ecc731;
+    background: #b62d32;
     color: white;
-    border: 2px solid #ecc731;
+    border: 2px solid #b62d32;
     transition: all 0.4s;
 }
 
 .warning-note {
     display: none;
-    border: 2px solid #ecc731;
+    border: 2px solid #b62d32;
     padding: 2px 15px;
     margin-bottom: 10px;
     margin-left: 15px;
