@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.breadcrumb-section {
+    height: 180px;
+}
+
+.breadcrumb-section div {
+    background-position: center 37.3%;
+    background-position-x: center;
+    background-position-y: 37.3%;
+    background-size: cover;
+    padding: 31px 0 42px;
+}
+
+.content-wrapper {
+    padding-top: 60px;
+}
+
+.contact-form h2 {
+    margin-top: 20px;
+    margin-bottom: 36px;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+input {
+    display: block;
+    height: 40px;
+    padding: 6px 12px;
+    font-size: 14px;
+    width: 100%;
+}
+
+textarea {
+    display: block;
+    padding: 6px 12px;
+    font-size: 14px;
+    width: 100%;
+}
