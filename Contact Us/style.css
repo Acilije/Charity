@@ -105,15 +105,33 @@ textarea:focus {
     margin-bottom: 0px;
 }
 
+.contact {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+address span {
+    width: 85%;
+    margin-left: 15px;
+}
+
 address strong {
+    float: left;
     color: #727272;
+    margin-right: 30px;
     margin-bottom: 5px;
+    width: 20%;
 }
 
 address div {
     margin-bottom: 30px;
+    margin-left: 10px;
     color: #727272;
     font-size: 14px;
+    width: 55%;
 }
 
 address div p {
